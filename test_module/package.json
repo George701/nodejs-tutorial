@@ -1,0 +1,15 @@
+{
+  "name": "test_module",
+  "version": "0.0.1",
+  "description": "my test module to learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chernikov Georgii",
+  "license": "ISC",
+
+  "dependencies": {
+    "express" : "3"
+  }
+}
